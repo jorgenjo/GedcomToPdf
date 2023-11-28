@@ -8,7 +8,7 @@ Supported formats
 
 # Modules
 
-## Statisstic
+## Statistic
 
 
 ## Individuals
