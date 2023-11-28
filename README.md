@@ -14,8 +14,8 @@ Supported languages
 
 ## Statistic
 - Number of induviduals
--- Males
--- Femailes
+Males
+Femailes
     
 - Number of families
 
