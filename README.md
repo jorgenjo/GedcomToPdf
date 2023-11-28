@@ -9,7 +9,8 @@ Supported formats
 # Modules
 
 ## Statistic
-
+- Number of induviduals
+- Number of families
 
 ## Individuals
 
